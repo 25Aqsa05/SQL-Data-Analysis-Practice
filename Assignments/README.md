@@ -4,13 +4,14 @@ This folder contains my SQL practice assignments completed during my Data Analyt
 
 ## Assignments
 
-- Assignment 1 – SQL Filtering
-- Assignment 2 – Aggregate Functions & GROUP BY
-- Assignment 3 – SQL Joins & Set Operations
-- Assignment 4 - Subqueries & Views
-- Assignment 5 - Date and time function
-- Assignment 6 - Pattern(String)Matching
-- Assignment 7 - Data type conversion function
+- Assignment 1 – Basic-SQL 
+- Assignment 2 - SQL Filtering
+- Assignment 3 – Aggregate Functions & GROUP BY
+- Assignment 4 – SQL Joins & Set Operations
+- Assignment 5 - Subqueries & Views
+- Assignment 6 - Date and time function
+- Assignment 7 - Pattern(String)Matching
+- Assignment 8 - Data type conversion function
 
 ## Tools Used
 
